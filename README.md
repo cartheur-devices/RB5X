@@ -1,3 +1,9 @@
-## RB Robotics' RB5X
+## VoltaForth X
 
-A Heiserman-inspired home robot from 1982. Seen [here](https://www.youtube.com/watch?v=YWzSIUBbF_E).
+An old robot idea as a platform for new developments, using [Volatco](https://volatco.tech) and [polyForth](/docs/polyForth.pdf).
+
+![image](/images/VoltaForthX.png)
+
+### Background
+
+A 1982-era commercial manufacture of Heiserman's [Rodney](https://github.com/cartheur/aiventure-rodney), seen in action [here](https://www.youtube.com/watch?v=YWzSIUBbF_E).
